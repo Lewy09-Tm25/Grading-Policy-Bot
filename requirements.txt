@@ -1,8 +1,8 @@
 # Web Framework
-streamlit==1.33.0
+streamlit
 
 # LLM Integration
-openai==1.17.0
+openai
 
 # Environment Management
 python-dotenv==1.0.1
