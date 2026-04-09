@@ -1,0 +1,12 @@
+# Web Framework
+streamlit==1.33.0
+
+# LLM Integration
+openai==1.17.0
+
+# Environment Management
+python-dotenv==1.0.1
+
+# PDF Parsing (Marker and its core dependency)
+marker-pdf==1.0.0
+torch

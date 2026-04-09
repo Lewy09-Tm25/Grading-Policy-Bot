@@ -1,0 +1,223 @@
+![](_page_0_Picture_1.jpeg)
+
+# **EFFECTIVE FALL 2024**
+
+Date: June 2024
+
+To: **Chief Academic Officers**
+
+From: CUNY Office of Academic Affairs
+
+Subject: **CUNY Uniform Grade Symbols and Guidelines**
+
+Attached memorandum is the updated CUNY Uniform Grade Symbols and Guidelines document. If you have any questions, please email **[our@cuny.edu](mailto:OUR@cuny.edu)**
+
+| Grade Glossary.................2|  |
+| Change of Grade Process........7|  |
+| F-Repeat Policy.......................9|  |
+
+Please disseminate to all interested parties on your campus.
+
+Cc: The Chancellor
+
+The Presidents and Deans of the Colleges
+
+University Student Affairs Council
+
+University Enrollment Management Council
+
+College Registrars
+
+College Financial Aid Directors University Student Senate University Faculty Senate
+
+## <span id="page-1-0"></span>**Grade Glossary**
+
+The following glossary of uniform grading symbols shall be employed according to the interpretation provided below. Grades are assigned based on the definitions contained herein. Individual units of the University need not employ all symbols but must adhere to the following interpretation for those employed and may not use any symbol that is not included in the glossary. Quality points are to be used to calculate the grade point average (GPA) or index. A dash "--" indicates that the grade does not carry a numerical value and is not to be included in the GPA. Plus ("+") and minus ("-") grades shall be interpreted as equivalent to "+0.3" and "-0.3", except as noted.
+
+| Grade | Explanation                                                                                                                                                                                                                                                                            | Quality<br>Points |
+|-------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------|
+| A+    | Exceptional                                                                                                                                                                                                                                                                            | 4.00                  |
+| A     | Excellent                                                                                                                                                                                                                                                                              | 4.00                  |
+| A-    | Excellent                                                                                                                                                                                                                                                                              | 3.70                  |
+| AUD   | Auditor, Listener                                                                                                                                                                                                                                                                      | --                  |
+| B+    | Good                                                                                                                                                                                                                                                                                   | 3.30         |
+| B     | Good                                                                                                                                                                                                                                                                                   | 3.00              |
+| B-    | Good                                                                                                                                                                                                                                                                                   | 2.70              |
+| C+    | Satisfactory                                                                                                                                                                                                                                                                           | 2.30              |
+| C     | Satisfactory                                                                                                                                                                                                                                                                           | 2.00              |
+| C-    | Satisfactory                                                                                                                                                                                                                                                                           | 1.70              |
+| CR    | Credit Earned                                                                                                                                                                                                                                                                          | --                 |
+| D+    | Passing                                                                                                                                                                                                                                                                                | 1.30              |
+| D     | Passing                                                                                                                                                                                                                                                                                | 1.00              |
+| D-    | Passing                                                                                                                                                                                                                                                                                | 0.70              |
+| FIN   | F from incomplete. To be used when the INC grade lapses to an F grade                                                                                                                                                                                                                  | 0.00              |
+| NC/NP | No credit granted                                                                                                                                                                                                                                                                      | --                 |
+| P     | Pass                                                                                                                                                                                                                                                                                   | --                 |
+| PEN   | Grade pending (temporary grade)                                                                                                                                                                                                                                                        | --                 |
+| R     | Course must be repeated; minimum level of proficiency not attained. *Restricted to noncredit, remedial, and to developmental courses*                                                                                                                                                 | --                  |
+| S     | Satisfactory                                                                                                                                                                                                                                                                           | --                 |
+| SP    | Satisfactory progress. Restricted to thesis and research courses requiring more than one<br>semester for completion (temporary grade)                                                                                                                                                  | --                  |
+| U     | Unsatisfactory, *Restricted to noncredit, remedial, and to developmental courses*                                                                                                                                                                                                        | 0.00                  |
+| W     | Withdrew. *Student participated in an academically related activity at least* once                                                                                                                                                                                                       | --                  |
+| WA    | Administrative Withdrawal. *Non-punitive grade assigned to students who had registered for classes at the beginning of the term but did not provide proof of immunization by compliance date.* **Student participated in an academically related activity at least once** | --                  |
+| WD    | Withdrew Drop. Dropped after FA cert date during the program adjustment period. Student participated in an academically related activity at least once                                                                                                                              | --                  |
+| WN    | Never participated in an academically related activity                                                                                                                                                                                                                                 | --                 |
+| Y     | Year or longer course of study must continue to completion (temporary grade)                                                                                                                                                                                                           | --                 |
+| H     | Honor. Hunter College School of Social Work only                                                                                                                                                                                                                                       | --                 |
+| NRP   | No Record of Progress. Exclusive to Dissertation Supervision at the Graduate Center Only                                                                                                                                                                                            | --                 |
+
+# **F, WU, and INC Grades**
+
+| Grade | Explanation                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             | Quality<br>Points |
+|-------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------|
+| F     | **Failure**: **F** is an **earned grade** based on poor performance and the student not meeting<br>the learning objectives/outcomes of the course.**A 'WU' grade should never be given in place of an 'F' grade.**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               | 0.00              |
+| WU    | **Withdrew Unofficially**: A grade of WU is to be assigned to students who participated in an academic activity related to the class at least once, stopped participating, did not drop the class or receive approval for an incomplete, did not otherwise officially withdraw from the course, and did not complete enough work for the instructor to be able to calculate an earned grade using the criteria delineated in the course syllabus. A 'F' grade should never be given in place of a 'WU' grade.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       | --                  |
+| INC   | Term's work incomplete *(temporary grade)*: **INC** *(Incomplete) should **only** be given by the<br>instructor **in consultation with the student** when there is a **reasonable expectation** that a **student can successfully complete** the requirements of the course no later than the last day of the following semester, or its equivalent in calendar time, exclusive of Summer Session/Term **Note INC** is a temporary grade awarded when the disposition of the final grade requires further evaluation for reasons **other than the Procedures for Imposition of Sanctions** related to the Board's Academic Integrity Policy. Transcript comments for INC grades should be added to the student record indicating the nature of the incomplete. The grade of "INC" lapses to an "FIN" grade no later than the last day of the following semester, or its equivalent in calendar time, exclusive of Summer Session/Term. Students who have officially withdrawn from a college and have these grades may be exempted from the limitations.* | --                 |
+
+**CUNY School of Medicine Only**
+
+| Grade | Explanation                                                                                             |
+|-------|---------------------------------------------------------------------------------------------------------|
+| C/    | Passed the course/clerkship elements but failed the initial attempt of the NBME subject exam.           |
+| C/P   | Passed the second attempt of the NBME subject exam; Passed the course/clerkship.                        |
+| C/F   | Failed the second attempt of the NBME subject exam; Failed the course/clerkship.                        |
+| H     | Outstanding performance in the subject area, far exceeding the clerkship requirements, limited to the   |
+|       | top 10-20% of students.                                                                                 |
+| HP    | For performance significantly above expectations, up to the top 40% of students, but not qualifying for |
+|       | honors.                                                                                                 |
+| U/    | Does not meet expectations in one or more competencies.                                                 |
+| U/P   | Did not meet expectations in competency and successfully remediated.                                    |
+| U/F   | Did not meet expectations in competency and failed the remediation.                                     |
+
+## **Discontinued Grades & Grade Symbols**
+
+Following symbols have been implemented as prefixes to grades in the student system to identify repeated courses including the application of the F grade repeat policy and Board approved variance, as well as to indicate a grade's impact on GPA and credit accumulation. CUNYfirst College have retired the use of these prefixes as they went live in CUNYfirst. **Converted records will continue to display with the legacy prefix designation in CUNYfirst.**
+
+|   | Prefix Explanation                                                              |
+|---|---------------------------------------------------------------------------------|
+| & | Repeated course which counts in the GPA but does not count in credits completed |
+| * | Course does not count in the GPA and does not count in credits completed        |
+| # | Replacement grade, F grade policy, does not count in cumulative GPA             |
+| @ | Repeat F grade policy, does not count in GPA, does count in credits completed   |
+
+Following grades are no longer in use and have been removed from the legend of grade symbols. **Colleges may not use any symbol which is no longer in use and therefore not included in the glossary.** Values have been defined in this document for historical purposes of computation on existing transcripts.
+
+| Grade | Explanation                                                                                                                                         | Quality Points | Effective Date |
+|-----|----------------------------------------------------------------------------------------------------------------------------------------------------------|----------------|----------------|
+| *   | Current course registration/course in progress                                                                                                           | --             | 04/1980        |
+| ABS | Absent from the final; make-up exam permitted.                                                                                                           | --             | 09/2008        |
+| E   | Excellent. (At LaGuardia Community College only)                                                                                                         | 4.00           | 09/1976        |
+| FAB | F from absent used when the ABS grade reverts to an F grade.                                                                                             | 0.00           | 09/2008        |
+| FPN | F from pending –used when the PEN grade reverts to an F<br>grade.                                                                                        | 0.00           | 09/2008        |
+| G   | Good. (At LaGuardia Community College only)                                                                                                              | 3.00           | 09/1976        |
+| H   | Honors. (Used only at Richmond College and only for students<br>who began in Spring 1975 or earlier.)                                                    | 4.00           | 09/1976        |
+| J   | Failure for non-academic reasons.                                                                                                                        | 0.00           | 09/1976        |
+| K   | Condition course completed. (This is not a grade.)                                                                                                       | --             | 09/1976        |
+| NF  | Failure in a non-academic course. (At York College only)                                                                                                 | 0.00           | 09/1976        |
+| WF  | Withdrew Failing. Student participated in an academically<br>related activity at least once                                                              | 0.00           | 01/2015        |
+| WP  | Withdrew passing.                                                                                                                                        | --             | 09/1976        |
+| X   | Non-punitive failure                                                                                                                                     | --             | 09/1976        |
+| Z   | No grade submitted by the instructor – a temporary grade which<br>is assigned by the registrar pending receipt of the final grade<br>from the instructor | --             | 05//2018       |
+
+# **Grades Explanations**
+
+- Any student transcript record sent from a unit of the University must include a grade for every course for which a student has been officially registered and not dropped during the program adjustment or refund period. The program adjustment period, formerly referred to as the add-and-drop period, coincides with the official refund and Census, Form-A due date. Clerical, computer, or professional errors are not to be considered a part of the historical record and should be deleted.
+- All courses or credits for which the student is officially registered after the financial aid certification date or program adjustment period, whichever is earlier, shall be considered "attempted credits" for the purposes of financialaid.
+- A withdrawal after the financial aid certification date or program adjustment period will be assigned "WD" (Dropped) or "W" (Withdrew Officially) or "WU" (Withdrew Unofficial, participated at least once) or "WN" (Never Participated).
+- The grade of "INC" lapses to an "FIN" grade no later than the last day of the following semester, or its equivalent in calendar time, exclusive of Summer Term/Session. ***The grade of "INC" (Incomplete) should be given by the instructor in consultation with the student only when there is a reasonable expectation that a student can successfully complete the requirements of the course***. It is a temporary grade awarded when the disposition of the final grade requires further evaluation for reasons other than the Procedures for Imposition of Sanctions related to the Board's Academic IntegrityPolicy.
+- The "PEN" grade is a temporary grade used to facilitate the implementation of the Procedures for Imposition of Sanctions whereby colleges must hold a student's grade in abeyance pending the outcome of the academic review process. Final determination of a grade will depend on final evaluation by the instructor or the outcome of the college's academic review process no later than the last day of the following semester, or its equivalent in calendar time, exclusive of Summer Term/Session.
+- The grade of "P" or "NC/NP" may be given as part of a 'Pass/No Pass/No Credit' agreement between a student and instructor. To receive this grade, a student needs to continue participating in academically related activities, complete all assignments, and take the culminating experience/final exam. If a passing grade is earned (A+ through D-), the student will receive a grade of 'P' and credit for the course, with no impact on GPA. If a failing grade is earned (F), the student will receive a grade of NC/NP which does not affect the GPA. This option *should* be requested prior to the last day a student can withdraw and receive a grade of "W" via an agreement with the Office of the Registrar. Students must remain in compliance with Federal and State Satisfactory Academic Progress guidelines. Colleges may place additional stipulations or restrictions on the use of this option, which must be clearly stated in their bulletin and on their website.
+- A college may choose to offer (with Board approval) a First Year Freshman Forgiveness policy. If the student passes the course, they will receive the grade earned which will carry the designated GPA. If the student fails the course, the grade will be administratively converted to NC and have no impact on the GPA. This policy is limited to first year students as defined by the college.
+- The grades of "NC" and "R" may represent non-punitive failures indicating unsatisfactory completion of the course. The "R" grade is restricted to noncredit remedial courses. The "NC" grade is restricted to regular, developmental, and compensatory courses. This grade can also be used by colleges for other administrative actions such as disciplinary dismissals. Neither of these grades is to be counted in the quality point index nor may be used in lieu of incomplete or withdrawal grades.
+- The grade of "CR" can be used for the awarding of transfer credit.
+- The grade "Y" or "SP" denotes that the semester's work has been completed; however, the course is still in progress and a final course evaluation cannot be determined until the entire activity has been concluded.
+- To satisfy the program pursuit requirements for State financial assistance awards (*Section 145-2.2 of the Regulations of the Commissioner*), ***the grades of "W", "WA", "WD", "WN", and "WU" shall signify that the course has not been completed***. All other grades, except for the "AUD" grade, shall signify that the course has been completed.
+- The grade point average is an index of a student's scholastic performance at a particular college. All grades that carry a numerical quality point value shall be included in the calculation of the grade point average.
+- Any notation regarding a student's probationary status appears only on the unofficial transcript.
+
+## <span id="page-6-0"></span>**Change of Grade Process**
+
+The purpose of this memorandum is to establish guidelines for change of grade and associated deadline and thereby facilitating timely progress to degree completion and compliance with financial aid requirements that all courses taken contribute to degree completion. This policy is intended to reflect the University's commitment to the student success goals and the requirements of New York State's Regulations of the Commissioner of Education.
+
+Application for a change of grade, assigned by a member of the faculty, may be made at any time **within one year from the end of the semester in which the course was taken**. Either the student or the instructor may make this request according to campus procedure. The procedures outlined below apply to the change of passing **letter grades, PEN, F, FIN, WU**. ***Grades cannot be changed once a student has graduated and their academic record is closed***.
+
+#### **Change of Final Grade**
+
+- Faculty members who initiate such a change must file a **Change of Grade Form** (paper or secure online form), including the reason for the change, follow campus changes of grade approval process, and forward the completed form to the Office of the Registrar, who will process the change and notify the student and faculty.
+- Grade change request **over one academic year** requires approval as defined by the campus.
+
+#### **Change of INC to Administrative FIN**
+
+- Campus Registrar assigns the grade of FIN when an INC (Incomplete) remains unresolved at the **end of the semester following the semester in which the course was taken** (exclusive of Summer Term.)
+- Incompletes unresolved in the above-mentioned time period will become FIN in students' record.
+  - o The student or the instructor may appeal this administrative action or request for an extension as defined by campus.
+  - o Appeals, if permitted by the campus, must be filed within thirty calendar days of FIN grade assignment in CUNYfirst (excluding faculty annual leave period).
+
+#### **Change of PEN to Final Letter Grade**
+
+• The "PEN" grade is a temporary grade awarded when the disposition of the final grade requires further evaluation and when the absent or incomplete grades are inappropriate. 'PEN' is also used to facilitate the implementation of the *Procedures for Imposition of Sanctions* whereby colleges must hold a student's grade in abeyance pending the outcome of the academic review process. Final determination of a grade will depend on final evaluation by the instructor or the outcome of the college's academic review process. PEN grade must be resolved to letter grade by the **end of the semester following the semester in which the course was taken**.
+
+#### **Student Final Grade Appeal for grades other than INC, FIN, PEN**
+
+• Students are strongly encouraged to first communicate with the professor of the course. If that conversation does not remedy the situation, or if students choose to not follow that route, then students who think that a final grade was issued erroneously may file a grade appeal using campus appeal process and deadline**.**
+
+## <span id="page-7-0"></span>
+## **Academic Penalty Removal for WU grade**
+
+• A withdrawal after the financial aid certification date or program adjustment period is assigned the grade of "WD" (Dropped) or "WN" (Never Participated), or "W" (Withdrew) or "WU" (Withdrew Unofficially). **Currently WD, W, WN are not academically punitive grades i.e., these grades do not impact student GPA.** Effective Fall 2021, WU grade will not have punitive impact on student's GPA.
+
+## **Withdrawal**
+
+• As a response to the academic disruptions caused by COVID-19, CUNY modified its withdrawal policy in the spring 2020 term, allowing students to officially withdraw up to the last day of the course, rather than until 60% of the term. Effective Fall 2024, the deadline for student-initiated withdrawal will be adjusted to a deadline of completion of 60% of the course.
+
+## **College Now Program Grading Policy**
+
+- College Now is a University wide initiative to offer college level courses to NYC's public high school students. Students take credit-bearing courses that are part of the regular curriculum at any one of the participating CUNY colleges. Since these are actual college courses a transcript can be generated for all participating students who enroll in these courses.
+- Currently the same letter grade system that is used on CUNY campuses is used in these courses. Upon matriculation in any of CUNY colleges other than the one sponsoring the course, the course is treated like transfer credit. The earned letter grade is not entered on the transcript at the receiving school.
+- If the student matriculates at the same college that sponsored their College Now course, the course appears on the transcript as a regular course with a letter grade and GPA. Because the same rules that apply to students transferring within CUNY are used for College Now students, if a student gets a passing grade in the course, the course will transfer. If, however, the student attends the college that sponsored the course, the letter grade and its corresponding GPA are calculated into the student's record. This is fine for students earning a "C" or better, but students earning a letter grade lower than a "C" start their academic career when entering college, on probation. In some cases, their financial aid may be impacted.
+- Effective Fall 2021, in all College Now programs the only passing grades permitted will be iterations of A through C. Lower passing grades such as C-, D+, D and D- will automatically convert to the grade of CR (credit) and the F, WD, WU, W, WN administrative grades will convert to NC (No Credit). CR will carry academic credit and NC will not. *College Now grades will not impact the student's GPA*. Upon matriculation, NC grades earned during College Now program, will not impact students financial aid status.
+
+## **Final Grade Submission Deadlines**
+
+- Beginning Fall 2017, City University of New York (CUNY) implemented a university-wide Final Grade Submission Deadline policy. Given the variety of student-centered application, enrollment and graduation transactions that needs to be completed in a timely fashion, **all CUNY institutions will require undergraduate final grades to be submitted no later than three days after the last day of the final exam period for the term (or equivalent for sessions/shorter class dates)**. Individual colleges may impose more stringent deadlines if they choose. This date will be published in the Academic Calendar.
+- Submitting grades on time prevents delays students may experience related to Enrollment processes, Transcript requests, Scholarships/Honors awards, Degree verifications by employers, Conferral of degrees, Financial Aid Satisfactory Academic Progress Calculation, Academic Standing Calculation, and mailing of diplomas.
+- Given that the wide range of Graduate/Professional programs offered at the University have significantly less standardization in their instructional delivery models and practices, this policy allows campuses offering Graduate/Professional programs to use the 72 hours deadline or establish alternative grade submission deadlines for courses offered in these programs.
+
+## **F-Repeat Policy**
+
+GUIDELINES: IMPLEMENTING UNIVERSITY POLICY REGARDING COMPUTING "F" IN THE GRADE POINT AVERAGE [Revised. 9/19/94](https://www.cuny.edu/wp-content/uploads/sites/4/page-assets/about/administration/offices/registrar/resources/F-Repeat-09191994.pdf)
+
+RESOLVED, When an undergraduate student receives the earned academic grade of "F" or an administrative failing grade, and that student subsequently retakes that course and receives a grade of "C" or better, the initial grade of "F" will no longer be computed into the Grade Point Average. The "F" will remain on the transcript. The number of failing credits that can be deleted from the Grade Point Average shall be limited to 16 for the duration of the student's undergraduate enrollment in the institutions of The City University of New York. This policy shall be effective September I, 1990, at all colleges of The City University of New York. (Policy approved by the Board of Trustees on April 23, 1990)
+
+- 1. This resolution is applicable only to grades of "F" and to those administrative grades that cause zero quality points to be averaged into the calculation of the cumulative Grade Point Average: WU, WF, U, FAB, FIN, and FPN. (For the purposes of these guidelines, "F" shall refer to earned failing grades and administrative failing grades.)
+- 2. This resolution limits to 16 the number of failing credits that may be deleted from the calculation of the cumulative Grade Point Average. All "F"s will remain on the student's transcript. Colleges may seek variances to this policy so long as they preserve the student's right, within a limited number of courses, to delete from the GPA a failing grade after retaking that course and receiving a better grade. Such variances shall be submitted as resolutions for the Special Actions section of the University Report.
+
+Resolutions seeking variances shall take the following form:
+
+RESOLVED, that the Board of Trustees of The City University of New York authorize [name of college] to adopt the following variance on the University F- Grade Policy, effective [date]:
+
+[Specify proposed variance.]
+
+EXPLANATION: [The explanation should be brief and should include the date of approval by the appropriate college governance body.]
+
+- 3. This resolution applies to grades of "C" or better received for courses retaken in the semester/quarter beginning September 1, 1990, and thereafter; such grades of "C" or better will replace grades of "F" earned at the same institution and previously calculated into the cumulative
+  - Grade Point Average. Students replacing grades of "F" earned before September l, 1984, must receive the approval of the appropriate faculty committee.
+- 4. A failing grade may not be partially deleted from the calculation of the cumulative Grade Point Average. Residual credits from the original limit of 16 may be applied to the deletion of credits of "F" from the computation of the cumulative Grade Point Average only if the residual credits are equivalent to (or exceed) the number of failing credits to be deleted for a specific course. (For example, if a student has used 14 credits of the 16-credit limit and subsequently earns a grade of
+
+"C" or better to replace a failing grade in a 3-credit course, the original grade of "F" will continue to be calculated in the cumulative Grade Point Average; however, if that student subsequently earns a grade of "C" or better to replace a failing grade in a 2-credit course, the original grade of "F" may be deleted from the computation of the cumulative Grade Point Average.)
+
+- 5. In order for a grade of "C" or better to replace a grade of "F" in the calculation of the cumulative Grade Point Average, repetition of the course must take place at the same college where the failing grade was originally received.
+- 6. This resolution specified that the limit of 16 credits applies to the period of a student's enrollment at CUNY. Whether students remain at a single college or transfer from one CUNY college to another, no more than 16 credits of failing grades may be replaced in the calculation of their cumulative Grade Point Average. Should the 16-credit limit have been reached during the student's enrollment at one college, the student will not be permitted to replace failing credits in the Grade Point Average at the second college. Should· the student cease to enroll at a CUNY college and subsequently enroll at the same or another CUNY college (whether for the same or another degree), the number of failing credits replaced in the calculation· of the Grade Point Average during the previous enrollment should be subtracted from 16 in order to determine how many failing credits may be replaced during the subsequent enrollment.
+- 7. If a student has received two or more "F"s for the same course and subsequently earns a "C" or better, the initial "F"s will, subject to the 16-credit limit, be deleted from the calculation of the cumulative Grade Point Average, and the total number of credits of "F" deleted will be charged against the 16-credit limit.
+- 8. When a student, by choice, has taken a course on a pass/fail basis and earned an "F" for that course, the student must subsequently receive a grade within the range from "C" to "A" in order for the initial "F" to be deleted from the calculation of the cumulative Grade Point Average.
+- 9. When course numbers or titles have changed in the period between the student's earning the initial "F" and repeating the course, but the content of the course remains the same, routine campus procedures should be followed for deleting the "F" from the calculation of the cumulative Grade Point Average. When course content has changed (as indicated in the Bulletin) in the period between earning the initial "F" and repeating the course, or when students have been permitted to substitute an equivalent course for the one originally failed, the declaration of course equivalency for the purpose of deleting the "F" from the calculation of the cumulative Grade Point Average will be at the discretion of the appropriate departmental or college committee.
+- 10. The Grade Point Average calculated on the basis of this policy is to be used for the purposes of retention at and graduation from the College, as well as transfer within the University. When the calculation of a student's cumulative Grade Point Average is one of the factors that determine admission to and continuance in a major or concentration, the cumulative Grade Point Average used in departmental procedures should be consistent with the April 1990 Board Resolution. However, if admission to and continuance in a major are determined by the student's Grade Point Average in a limited subset of courses, that partial Grade Point Average may be calculated in whatever manner is specified by the program faculty.
+- 11. This resolution is intended to effect the deletion of the first 16 failing credits calculated into the cumulative Grade Point Average once those courses have been retaken and passed with grades of "C" or better. For the deletion to take place, the student must be currently enrolled in the college where the grade of "F" was originally earned. Colleges should implement an effective procedure that deletes the failing grade from the calculation of the cumulative Grade Point Average once a student receives a grade of "C" or better, provided that the 16-credit limit has not been exceeded. It is the responsibility of the student to petition the registrar if he or she does not wish the failing grade to be deleted from the cumulative Grade Point Average. Such a request may be made at any point from the time of second enrollment in the course provided that the student is enrolled in the college.
+- 12. Except as provided herein, the 1985 "Uniform Grading Symbols: Glossary and Guidelines" remains in effect.
+- 13. Colleges shall promulgate these guidelines in the Bulletin and in other appropriate publications.
+- 14. Nothing in this policy shall affect a college's freedom to limit or control access to courses for which enrollment demand exceeds places available.
+- 15. Students should be advised that State and Federal financial aid is not available for the repetition of courses for which students have already received any credit (a D or better). Thus, if a student repeats a course in which he or she originally received a D, the student must be enrolled in courses carrying at least 12 hours of credit in addition to the repeated course to qualify for financial aid as a full-time student. Similarly, credits received in repeated courses, which students have already passed, cannot be counted as credits attempted or completed under the pursuit and progress requirements for the State Tuition Assistance Program.
+
+## **F-Repeat policy implementation for courses taken on ePermit**
+
+When CUNY Permit students withdraw completely from classes at both the host and home colleges if the PERM message course on the term record remains with no grade assigned the r2t4 process does not consistently recognize these students as completely withdrawn. CUNY Board of Trustees resolved that the grades earned for ePermit coursework shall appear on the student's academic transcript at the home college and be included in the calculation of the student's semester and overall grade point averages. This policy applies to all earned grades as well as to administrative designations. [\(BTM,2004,02-23,004,\\_A\)](http://policy.cuny.edu/text/toc/btm/2004/02-23/004/_A/) Therefore all grades A – Z must be recorded on the home college transcript. Furthermore, when a student has withdrawn from a host college course, either officially, unofficially, or administratively, the home college must record the W series grades assigned by the host college on the PERM message course in addition to the specific course equivalent recorded in other credits. W series grades include WD, WN, W, WU, WA administrative grades.

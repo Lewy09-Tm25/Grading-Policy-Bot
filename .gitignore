@@ -1,0 +1,9 @@
+# Security
+.env
+
+# Ignore the demo directory
+demo/
+
+# Standard Python ignores (good practice to include these)
+__pycache__/
+*.pyc
