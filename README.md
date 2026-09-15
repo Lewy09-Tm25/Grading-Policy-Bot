@@ -1,4 +1,4 @@
-# 🎓 CUNY Academic Policy Bot
+# 🎓 Guidance for Grading
 
 An interactive academic advisor built to answer questions based strictly on the **[CUNY Uniform Grade Glossary Policies and Guidelines](https://www.cuny.edu/wp-content/uploads/sites/4/page-assets/academics/new-revised-policies/CUNY-Uniform-Grade-Glossary-Policies-and-Guidelines-FINAL-JUNE-2024.pdf)**. 
 

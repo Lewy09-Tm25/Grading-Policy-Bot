@@ -7,3 +7,7 @@ demo/
 # Standard Python ignores (good practice to include these)
 __pycache__/
 *.pyc
+
+# Local-only specification / handoff documents
+SPEC.md
+SPEC.pdf

@@ -20,7 +20,7 @@ logger.info("=== Application Starting/Re-running ===")
 # 2. Page Configuration & Caching
 # ==========================================
 st.set_page_config(
-    page_title="CUNY Grade Glossary Advisor",
+    page_title="Guidance for Grading",
     # page_icon="🎓",
     layout="centered"
 )
@@ -51,7 +51,7 @@ if "messages" not in st.session_state:
 # ==========================================
 # 4. User Interface Rendering
 # ==========================================
-st.title("🎓 CUNY Academic Policy Bot")
+st.title("🎓 Guidance for Grading")
 st.markdown("Ask me any questions regarding the **Uniform Grade Glossary, Policies, and Guidelines**.")
 
 logger.info(f"Rendering {len(st.session_state.messages)} messages to the UI.")
